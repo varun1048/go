@@ -8,6 +8,7 @@ import (
 
 func main() {
 	
+	fmt.Println("his out put is from github desktop ")
 	str := []string{"varun","from","karapakkam"}
 	fmt.Println(strings.Join(str,"-"));
 	struct_ := data{
